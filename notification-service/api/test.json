@@ -1,0 +1,10 @@
+{
+  "body": {
+    "toPhone": "+18172913302",
+    "eSignType": "SMS",
+    "memberID": "VCMABC123",
+    "processID": "1234546778",
+    "link": "https://miipqu9kxh.execute-api.us-east-1.amazonaws.com/dev/getVoiceDetails"
+  }
+}
+
